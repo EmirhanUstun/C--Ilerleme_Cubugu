@@ -1,0 +1,11 @@
+D:\C# N.Y\Udemy_ProgressBar\Udemy_ProgressBar\bin\Debug\Udemy_ProgressBar.exe.config
+D:\C# N.Y\Udemy_ProgressBar\Udemy_ProgressBar\bin\Debug\Udemy_ProgressBar.exe
+D:\C# N.Y\Udemy_ProgressBar\Udemy_ProgressBar\bin\Debug\Udemy_ProgressBar.pdb
+D:\C# N.Y\Udemy_ProgressBar\Udemy_ProgressBar\obj\Debug\Udemy_ProgressBar.csproj.AssemblyReference.cache
+D:\C# N.Y\Udemy_ProgressBar\Udemy_ProgressBar\obj\Debug\Udemy_ProgressBar.csproj.SuggestedBindingRedirects.cache
+D:\C# N.Y\Udemy_ProgressBar\Udemy_ProgressBar\obj\Debug\Udemy_ProgressBar.Form1.resources
+D:\C# N.Y\Udemy_ProgressBar\Udemy_ProgressBar\obj\Debug\Udemy_ProgressBar.Properties.Resources.resources
+D:\C# N.Y\Udemy_ProgressBar\Udemy_ProgressBar\obj\Debug\Udemy_ProgressBar.csproj.GenerateResource.cache
+D:\C# N.Y\Udemy_ProgressBar\Udemy_ProgressBar\obj\Debug\Udemy_ProgressBar.csproj.CoreCompileInputs.cache
+D:\C# N.Y\Udemy_ProgressBar\Udemy_ProgressBar\obj\Debug\Udemy_ProgressBar.exe
+D:\C# N.Y\Udemy_ProgressBar\Udemy_ProgressBar\obj\Debug\Udemy_ProgressBar.pdb
